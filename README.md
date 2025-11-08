@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Potatoprogramme
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anything really
+- 👀 I’m interested in not programming
+- 🌱 I’m currently dying because of web development
+- 💞️ I’m looking to collaborate on vacation plans
 - 📫 How to reach me: dosbrotacosbaby@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I suck at programming
