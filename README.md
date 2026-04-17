@@ -6,6 +6,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I suck at programming
 
+Tech Stack for reals:
+Backend <br>
+- CodeIgniter4 (php framework)
+- Ruby on Rails (ruby framework)
+
+Frontend
+- TailwindCSS
+
 <!---
 Potatoprogramme/Potatoprogramme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
