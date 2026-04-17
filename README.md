@@ -1,3 +1,5 @@
+<h1>Personal Information</h1>
+
 - 👋 Hi, I’m @Potatoprogramme
 - 👀 I’m interested in not programming
 - 🌱 I’m currently dying because of web development
@@ -6,8 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I suck at programming
 
-Tech Stack for reals:
-Backend <br>
+<h2>Tech Stack for reals: </h2>
+
+Backend
 - CodeIgniter4 (php framework)
 - Ruby on Rails (ruby framework)
 
