@@ -1,4 +1,4 @@
-# Julius Caesar Naag
+# Potatoprogramme
 
 **Full-stack developer** from Naga, Bicol, Philippines.
 Currently an intern building production-grade web applications with Ruby on Rails and CodeIgniter 4.
@@ -61,19 +61,13 @@ Enum state management           Polymorphic associations
 
 ---
 
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Potatoprogramme&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potatoprogramme&layout=compact&hide_border=true&theme=default&hide_title=true" />
-</p>
-
----
-
 ## Contact
+<ul>
+  <li>Email — dosbrotacosbaby@gmail.com</li>
+  <li>Pronouns — He/Him</li>
+</ul>
 
-**Email** — dosbrotacosbaby@gmail.com
-**Pronouns** — He/Him
+
 
 ---
 
