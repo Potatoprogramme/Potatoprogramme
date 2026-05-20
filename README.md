@@ -44,7 +44,18 @@ Currently an intern building production-grade web applications with Ruby on Rail
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+ 
+## How I Work
+ 
+I keep controllers thin and push business logic into dedicated classes — interactors, query objects, and service layers. If a method is doing more than one thing, it probably shouldn't be in the same place.
+ 
+I prefer writing code that's easy to delete over code that's clever to read. Most bugs I've chased came from something that was trying to be too smart.
+ 
+When something breaks, I read the stack trace before I Google it. When I Google it, I read the docs before I copy the answer. I don't always follow this. I'm working on it.
+ 
+I care about clean JSON responses, consistent error handling, and not making the next developer — usually future me — hate whoever wrote this.
 
+---
 ## Patterns & Practices
 
 Things I've applied in real projects — not just read about.
