@@ -1,7 +1,6 @@
 # Potatoprogramme
 
 **Full-stack developer** from Naga, Bicol, Philippines.
-Currently an intern building production-grade web applications with Ruby on Rails and CodeIgniter 4.
 
 > *"It works on my machine"* — me, more often than I'd like to admit.
 
